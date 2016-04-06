@@ -39,4 +39,6 @@ UserParameter=nginx[*],"C:\Program Files\Java\jdk1.7.0_79\jre\bin\java" -jar c:\
   * nginx[writing]
   * nginx[waiting]
 
+
+A suggested graph with Nginx status data:
 ![Zabbix Nginx monitor graph](https://raw.githubusercontent.com/jpenren/zabbix-nginx-monitor/master/doc/graph.png)
