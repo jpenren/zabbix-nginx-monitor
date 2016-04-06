@@ -30,7 +30,7 @@ Example:
 UserParameter=nginx[*],"C:\Program Files\Java\jdk1.7.0_79\jre\bin\java" -jar c:\zabbix-nginx-monitor-1.0.0.jar http://localhost:8181/nginx_status $1
 ```
 
-* Create the host items to monitorize on Zabbix server with the following keys:
+* Create the host items on Zabbix server to monitorize Nginx with the following keys:
   * nginx[connections]
   * nginx[requests]
   * nginx[accepts]
